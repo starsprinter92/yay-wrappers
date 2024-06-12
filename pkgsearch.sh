@@ -1,7 +1,6 @@
 #!/bin/bash
-
 figlet pkgsearch
-echo "Search for any package:"
+echo "Search the AUR and repositories:"
 read packagename
 
-yay $packagename
+yay packagename
