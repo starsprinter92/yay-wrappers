@@ -1,5 +1,5 @@
 #!/bin/bash
-figlet "pkgsearch"
+figlet "pkgsearch" | lolcat
 echo "Search the AUR and repositories:"
 read packagename
 
