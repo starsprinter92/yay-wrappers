@@ -1,5 +1,5 @@
 #!/bin/bash
-figlet pkginstall
+figlet pkginstall | lolcat
 echo "Enter Package Name:"
 read packagename
 
