@@ -1,7 +1,7 @@
 # yay-wrappers
 cool wrappers
 
-DEPENDENCIES: yay, git
+DEPENDENCIES: yay, git, lolcat, and figlet
 
 run these commands to install:
 
