@@ -11,14 +11,14 @@ cd yay-wrappers
 
 chmod +x ./pkginstall.sh
 
-cp ./pkginstall.sh /usr/bin/pkginstall
+sudo cp ./pkginstall.sh /usr/bin/pkginstall
 
 chmod +x update.sh
 
-cp ./update.sh /usr/bin/update
+sudo cp ./update.sh /usr/bin/update
 
 chmod +x ./pkgsearch.sh
 
-cp ./pkgsearch.sh /usr/bin/pkgsearch
+sudo cp ./pkgsearch.sh /usr/bin/pkgsearch
 
 Now you can run update, pkginstall, and pkgsearch
