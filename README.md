@@ -1,6 +1,8 @@
 # yay-wrappers
 cool wrappers
-file:///home/guy/Downloads/yogurt-cup-512(1).png
+
+![yogurt-cup-512(2)](https://github.com/starsprinter92/yay-wrappers/assets/97267759/00190f2e-2078-4e0d-815b-dfb0e58165e6)
+
 DEPENDENCIES: yay, git, lolcat, and figlet
 
 run these commands to install:
