@@ -1,6 +1,8 @@
 # yay-wrappers
 cool wrappers
+
 installation: run these commands: 
+
 git clone https://github.com/starsprinter92/yay-wrappers/
 
 cd yay-wrappers
