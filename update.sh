@@ -1,3 +1,3 @@
 figlet Updating... | lolcat
-yay -Syyu
+yay -Syyu --noconfirm
 figlet Updated! | lolcat
