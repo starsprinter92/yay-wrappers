@@ -32,3 +32,21 @@ chmod +x ./pkgsearch.sh
 sudo cp ./pkgsearch.sh /usr/bin/pkgsearch
 ```
 Now you can run update, pkginstall, and pkgsearch
+
+# Screenshots
+
+## PKGinstall
+
+![swappy-20240612-211452](https://github.com/starsprinter92/yay-wrappers/assets/97267759/72974eca-29d9-4ac9-8faf-7a63d5f2e909)
+
+## PKGsearch 
+
+![swappy-20240612-211533](https://github.com/starsprinter92/yay-wrappers/assets/97267759/d00dc2c6-d8b7-42ec-9f90-3e002a72b807)
+
+## Update
+
+![swappy-20240612-211651](https://github.com/starsprinter92/yay-wrappers/assets/97267759/b02a7506-d0aa-46a2-b2f3-d0c37e403a2b)
+
+## Installer
+
+![swappy-20240612-211820](https://github.com/starsprinter92/yay-wrappers/assets/97267759/d6a0a5e2-9966-44b9-b4ca-eb8603467624)
