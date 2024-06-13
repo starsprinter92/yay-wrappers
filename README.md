@@ -5,8 +5,16 @@ cool wrappers
 
 DEPENDENCIES: yay, git, lolcat, and figlet
 
-run these commands to install:
+# Installation
 
+## (RECOMMENDED) Automatic
+
+```
+bash <(curl -s https://raw.githubusercontent.com/starsprinter92/yay-wrappers-installer/main/installer.sh)
+```
+If you have any issues with the installer, visit [this link](https://github.com/starsprinter92/yay-wrappers-installer/tree/main)
+## Manual installation
+```
 git clone https://github.com/starsprinter92/yay-wrappers/
 
 cd yay-wrappers
@@ -22,5 +30,5 @@ sudo cp ./update.sh /usr/bin/update
 chmod +x ./pkgsearch.sh
 
 sudo cp ./pkgsearch.sh /usr/bin/pkgsearch
-
+```
 Now you can run update, pkginstall, and pkgsearch
